@@ -1,0 +1,31 @@
+{
+    "_id" : ObjectId("5ebc44f23a289bc862491d92"),
+    "user_id" : NumberInt(2),
+    "firstName" : "Grace",
+    "lastname" : "Hopper",
+    "title" : "Rear Admiral",
+    "email" : "grace@navy.mil",
+    "password" : "C8w4&CWC^egwecwoWei79chwf",
+    "actividad" : "activo",
+    "receta_favorita" : "Pasta"
+}
+{
+    "_id" : ObjectId("5ee695203260aab97ea0d58c"),
+    "user_id" : NumberInt(1),
+    "firstName" : "Caderyn",
+    "lastName" : "Jenkins",
+    "email" : "none@example.com",
+    "password" : "ZHN5t6RPW8krrkm72ir7NeMYF37G6Rle",
+    "actividad" : "activo",
+    "receta_favorita" : "Chicken Soft Tacos"
+}
+{
+    "_id" : ObjectId("63c8b6a04d64cf4c937c21b6"),
+    "firstName" : "Willy",
+    "lastname" : "Valle",
+    "email" : "willy@gmail.com",
+    "password" : "1234",
+    "user_id" : NumberInt(3),
+    "actividad" : "activo",
+    "receta_favorita" : "Pancakes"
+}

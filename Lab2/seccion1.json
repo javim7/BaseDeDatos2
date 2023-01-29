@@ -1,0 +1,56 @@
+[
+    {
+        "name" : "peliculas",
+        "type" : "collection",
+        "options" : {
+
+        },
+        "info" : {
+            "readOnly" : false,
+            "uuid" : UUID("8a3220bf-aa15-4477-b0d0-bf841b626e5b")
+        },
+        "idIndex" : {
+            "v" : 2.0,
+            "key" : {
+                "_id" : 1.0
+            },
+            "name" : "_id_"
+        }
+    },
+    {
+        "name" : "vehiculos",
+        "type" : "collection",
+        "options" : {
+
+        },
+        "info" : {
+            "readOnly" : false,
+            "uuid" : UUID("accf631a-7df7-438e-b78f-448d92a5a767")
+        },
+        "idIndex" : {
+            "v" : 2.0,
+            "key" : {
+                "_id" : 1.0
+            },
+            "name" : "_id_"
+        }
+    },
+    {
+        "name" : "personas",
+        "type" : "collection",
+        "options" : {
+
+        },
+        "info" : {
+            "readOnly" : false,
+            "uuid" : UUID("f1ed7e66-7742-413b-a982-7156197667cd")
+        },
+        "idIndex" : {
+            "v" : 2.0,
+            "key" : {
+                "_id" : 1.0
+            },
+            "name" : "_id_"
+        }
+    }
+]

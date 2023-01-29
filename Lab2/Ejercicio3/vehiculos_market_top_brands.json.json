@@ -1,0 +1,50 @@
+{
+    "_id" : "European",
+    "top_brands" : [
+        {
+            "brand" : "Audi",
+            "avg_price" : NumberDecimal("29990.58")
+        },
+        {
+            "brand" : "Audi",
+            "avg_price" : NumberDecimal("29899.37")
+        },
+        {
+            "brand" : "Volvo",
+            "avg_price" : NumberDecimal("29757.22")
+        },
+        {
+            "brand" : "Mercedes-Benz",
+            "avg_price" : NumberDecimal("29696.65")
+        },
+        {
+            "brand" : "BMW",
+            "avg_price" : NumberDecimal("29499.64")
+        }
+    ]
+}
+{
+    "_id" : "Asian",
+    "top_brands" : [
+        {
+            "brand" : "Kia",
+            "avg_price" : NumberDecimal("29616.09")
+        },
+        {
+            "brand" : "Honda",
+            "avg_price" : NumberDecimal("29238.54")
+        },
+        {
+            "brand" : "Nissan",
+            "avg_price" : NumberDecimal("29173.57")
+        },
+        {
+            "brand" : "Toyota",
+            "avg_price" : NumberDecimal("29159.94")
+        },
+        {
+            "brand" : "Honda",
+            "avg_price" : NumberDecimal("28872.27")
+        }
+    ]
+}

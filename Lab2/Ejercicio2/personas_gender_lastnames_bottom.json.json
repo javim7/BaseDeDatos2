@@ -1,0 +1,160 @@
+{
+    "_id" : "Agender",
+    "bottom_lastnames" : [
+        "Nutman",
+        "Penhaligon",
+        "Itzkin",
+        "Kimmons",
+        "Michelmore",
+        "Newitt",
+        "Freemantle",
+        "Cavaney",
+        "McCarrison",
+        "Ascraft",
+        "Daw",
+        "Kenward",
+        "Tetther",
+        "Rulton",
+        "Colquete"
+    ]
+}
+{
+    "_id" : "Bigender",
+    "bottom_lastnames" : [
+        "Bew",
+        "Blaasch",
+        "Inger",
+        "Conyers",
+        "Mamwell",
+        "Eccott",
+        "Corday",
+        "Borthwick",
+        "Keenlyside",
+        "Corrison",
+        "Moulds",
+        "Peto",
+        "Tedahl",
+        "Shilburne",
+        "Sandes"
+    ]
+}
+{
+    "_id" : "Female",
+    "bottom_lastnames" : [
+        "Dellit",
+        "Foulser",
+        "Trahar",
+        "Kemmish",
+        "Randales",
+        "Tomeo",
+        "Denisevich",
+        "Lummis",
+        "Heathfield",
+        "Tatford",
+        "Ferroni",
+        "Tilliard",
+        "Labrenz",
+        "Moorman",
+        "Botterill"
+    ]
+}
+{
+    "_id" : "Genderfluid",
+    "bottom_lastnames" : [
+        "McGillicuddy",
+        "Probyn",
+        "Fardon",
+        "McCloughlin",
+        "Samsin",
+        "Winstone",
+        "Gwalter",
+        "Gull",
+        "Garnsey",
+        "Grund",
+        "Krysztofiak",
+        "Docwra",
+        "Wilfinger",
+        "Ezzy",
+        "Brum"
+    ]
+}
+{
+    "_id" : "Genderqueer",
+    "bottom_lastnames" : [
+        "Weddell",
+        "Kausche",
+        "Normanell",
+        "Bentson",
+        "Geary",
+        "Atherley",
+        "Moncey",
+        "Buzzing",
+        "Greeson",
+        "Pymm",
+        "Janton",
+        "McAuslan",
+        "Vaggs",
+        "Innwood",
+        "Attwell"
+    ]
+}
+{
+    "_id" : "Male",
+    "bottom_lastnames" : [
+        "Esche",
+        "Heams",
+        "Evelyn",
+        "Demelt",
+        "Stobbs",
+        "Pyrah",
+        "Bulluck",
+        "Stebbing",
+        "Denford",
+        "Jayume",
+        "Prestner",
+        "Quipp",
+        "Burnall",
+        "Elias",
+        "Tapply"
+    ]
+}
+{
+    "_id" : "Non-binary",
+    "bottom_lastnames" : [
+        "Morales",
+        "Sketchley",
+        "Balasin",
+        "Cutmere",
+        "Admans",
+        "Zohrer",
+        "Cicchillo",
+        "Bumford",
+        "Vamplers",
+        "Fibbens",
+        "Spellessy",
+        "Castellani",
+        "Boshier",
+        "Tripet",
+        "Holmyard"
+    ]
+}
+{
+    "_id" : "Polygender",
+    "bottom_lastnames" : [
+        "Dufore",
+        "Murrell",
+        "Nesfield",
+        "Danielot",
+        "Libri",
+        "Gwyneth",
+        "Mews",
+        "Eakly",
+        "Bubb",
+        "Bakes",
+        "Toquet",
+        "O'Gavin",
+        "Boni",
+        "Langmead",
+        "Lucien"
+    ]
+}

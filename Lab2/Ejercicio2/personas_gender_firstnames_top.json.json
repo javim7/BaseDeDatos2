@@ -1,0 +1,200 @@
+{
+    "_id" : "Male",
+    "top_names" : [
+        {
+            "name" : "Burchall",
+            "freq" : 1.0
+        },
+        {
+            "name" : "Morie",
+            "freq" : 1.0
+        },
+        {
+            "name" : "Jed",
+            "freq" : 1.0
+        },
+        {
+            "name" : "Westbury",
+            "freq" : 1.0
+        },
+        {
+            "name" : "Nickie",
+            "freq" : 1.0
+        }
+    ]
+}
+{
+    "_id" : "Genderqueer",
+    "top_names" : [
+        {
+            "name" : "Aleece",
+            "freq" : 2.0
+        },
+        {
+            "name" : "McAuslan",
+            "freq" : 1.0
+        },
+        {
+            "name" : "Arndtsen",
+            "freq" : 1.0
+        },
+        {
+            "name" : "Horst",
+            "freq" : 1.0
+        },
+        {
+            "name" : "Thirlaway",
+            "freq" : 1.0
+        }
+    ]
+}
+{
+    "_id" : "Bigender",
+    "top_names" : [
+        {
+            "name" : "Ardis",
+            "freq" : 2.0
+        },
+        {
+            "name" : "Mc",
+            "freq" : 2.0
+        },
+        {
+            "name" : "Shina",
+            "freq" : 1.0
+        },
+        {
+            "name" : "Blaasch",
+            "freq" : 1.0
+        },
+        {
+            "name" : "Marcella",
+            "freq" : 1.0
+        }
+    ]
+}
+{
+    "_id" : "Agender",
+    "top_names" : [
+        {
+            "name" : "Van",
+            "freq" : 2.0
+        },
+        {
+            "name" : "Odey",
+            "freq" : 2.0
+        },
+        {
+            "name" : "Beven",
+            "freq" : 1.0
+        },
+        {
+            "name" : "Gard",
+            "freq" : 1.0
+        },
+        {
+            "name" : "Skipp",
+            "freq" : 1.0
+        }
+    ]
+}
+{
+    "_id" : "Genderfluid",
+    "top_names" : [
+        {
+            "name" : "Margery",
+            "freq" : 2.0
+        },
+        {
+            "name" : "Neall",
+            "freq" : 2.0
+        },
+        {
+            "name" : "Dollie",
+            "freq" : 2.0
+        },
+        {
+            "name" : "Le",
+            "freq" : 2.0
+        },
+        {
+            "name" : "Van",
+            "freq" : 1.0
+        }
+    ]
+}
+{
+    "_id" : "Female",
+    "top_names" : [
+        {
+            "name" : "Simonnot",
+            "freq" : 2.0
+        },
+        {
+            "name" : "Celina",
+            "freq" : 2.0
+        },
+        {
+            "name" : "Isakowicz",
+            "freq" : 1.0
+        },
+        {
+            "name" : "Muhammad",
+            "freq" : 1.0
+        },
+        {
+            "name" : "Lara",
+            "freq" : 1.0
+        }
+    ]
+}
+{
+    "_id" : "Polygender",
+    "top_names" : [
+        {
+            "name" : "Alasteir",
+            "freq" : 2.0
+        },
+        {
+            "name" : "Brignell",
+            "freq" : 1.0
+        },
+        {
+            "name" : "Audrie",
+            "freq" : 1.0
+        },
+        {
+            "name" : "Duchant",
+            "freq" : 1.0
+        },
+        {
+            "name" : "Sandy",
+            "freq" : 1.0
+        }
+    ]
+}
+{
+    "_id" : "Non-binary",
+    "top_names" : [
+        {
+            "name" : "De",
+            "freq" : 2.0
+        },
+        {
+            "name" : "Wombwell",
+            "freq" : 1.0
+        },
+        {
+            "name" : "Dudmesh",
+            "freq" : 1.0
+        },
+        {
+            "name" : "Nertie",
+            "freq" : 1.0
+        },
+        {
+            "name" : "Ivakhnov",
+            "freq" : 1.0
+        }
+    ]
+}

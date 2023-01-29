@@ -1,0 +1,198 @@
+{
+    "_id" : "Horror",
+    "years" : [
+        NumberInt(1992),
+        NumberInt(2008),
+        NumberInt(2003),
+        NumberInt(2003),
+        NumberInt(2004)
+    ]
+}
+{
+    "_id" : "Film-Noir",
+    "years" : [
+        NumberInt(2005),
+        NumberInt(2011),
+        NumberInt(2009),
+        NumberInt(2011),
+        NumberInt(2009)
+    ]
+}
+{
+    "_id" : "Children",
+    "years" : [
+        NumberInt(1992),
+        NumberInt(2006),
+        NumberInt(1991),
+        NumberInt(2013),
+        NumberInt(2009)
+    ]
+}
+{
+    "_id" : "Romance",
+    "years" : [
+        NumberInt(2009),
+        NumberInt(2001),
+        NumberInt(1994),
+        NumberInt(1986),
+        NumberInt(1995)
+    ]
+}
+{
+    "_id" : "Action",
+    "years" : [
+        NumberInt(2001),
+        NumberInt(1998),
+        NumberInt(1986),
+        NumberInt(1997),
+        NumberInt(2011)
+    ]
+}
+{
+    "_id" : "Drama",
+    "years" : [
+        NumberInt(2009),
+        NumberInt(2000),
+        NumberInt(2011),
+        NumberInt(2001),
+        NumberInt(1995)
+    ]
+}
+{
+    "_id" : "Sci-Fi",
+    "years" : [
+        NumberInt(1998),
+        NumberInt(1992),
+        NumberInt(1989),
+        NumberInt(2004),
+        NumberInt(1995)
+    ]
+}
+{
+    "_id" : "Musical",
+    "years" : [
+        NumberInt(2001),
+        NumberInt(2009),
+        NumberInt(2001),
+        NumberInt(1994),
+        NumberInt(2006)
+    ]
+}
+{
+    "_id" : "Fantasy",
+    "years" : [
+        NumberInt(1984),
+        NumberInt(1991),
+        NumberInt(1986),
+        NumberInt(2012),
+        NumberInt(1995)
+    ]
+}
+{
+    "_id" : "Thriller",
+    "years" : [
+        NumberInt(2000),
+        NumberInt(1995),
+        NumberInt(1998),
+        NumberInt(1995),
+        NumberInt(1988)
+    ]
+}
+{
+    "_id" : "(no genres listed)",
+    "years" : [
+        NumberInt(2007),
+        NumberInt(2009),
+        NumberInt(2002),
+        NumberInt(2010),
+        NumberInt(2004)
+    ]
+}
+{
+    "_id" : "Adventure",
+    "years" : [
+        NumberInt(1986),
+        NumberInt(2011),
+        NumberInt(1996),
+        NumberInt(2006),
+        NumberInt(1984)
+    ]
+}
+{
+    "_id" : "IMAX",
+    "years" : [
+        NumberInt(1992),
+        NumberInt(2009),
+        NumberInt(1999)
+    ]
+}
+{
+    "_id" : "Animation",
+    "years" : [
+        NumberInt(1992),
+        NumberInt(1990),
+        NumberInt(2013),
+        NumberInt(1986),
+        NumberInt(2002)
+    ]
+}
+{
+    "_id" : "War",
+    "years" : [
+        NumberInt(2001),
+        NumberInt(1986),
+        NumberInt(2009),
+        NumberInt(1998),
+        NumberInt(1990)
+    ]
+}
+{
+    "_id" : "Documentary",
+    "years" : [
+        NumberInt(1992),
+        NumberInt(1999),
+        NumberInt(1995),
+        NumberInt(1998),
+        NumberInt(2004)
+    ]
+}
+{
+    "_id" : "Western",
+    "years" : [
+        NumberInt(1995),
+        NumberInt(2012),
+        NumberInt(1996),
+        NumberInt(2008),
+        NumberInt(1994)
+    ]
+}
+{
+    "_id" : "Comedy",
+    "years" : [
+        NumberInt(2008),
+        NumberInt(2006),
+        NumberInt(1989),
+        NumberInt(2006),
+        NumberInt(1985)
+    ]
+}
+{
+    "_id" : "Crime",
+    "years" : [
+        NumberInt(2006),
+        NumberInt(1995),
+        NumberInt(2004),
+        NumberInt(1997),
+        NumberInt(2012)
+    ]
+}
+{
+    "_id" : "Mystery",
+    "years" : [
+        NumberInt(1988),
+        NumberInt(2004),
+        NumberInt(2008),
+        NumberInt(2002),
+        NumberInt(2009)
+    ]
+}

@@ -1,0 +1,3130 @@
+{
+    "_id" : "Volkswagen",
+    "stats" : [
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26623.44")
+        },
+        {
+            "year" : NumberInt(1995),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27886.13")
+        },
+        {
+            "year" : NumberInt(1987),
+            "total_models" : 5.0,
+            "avg_price" : NumberDecimal("24569.108")
+        },
+        {
+            "year" : NumberInt(1996),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28000.03")
+        },
+        {
+            "year" : NumberInt(2000),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("22045.445")
+        },
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28581.79")
+        },
+        {
+            "year" : NumberInt(1997),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28671.25")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22205.84")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25773.685")
+        },
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25140.42")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("24466.31666666666666666666666666667")
+        },
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("26098.97333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(1988),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24532.38")
+        },
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("27913.225")
+        },
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("25114.85")
+        },
+        {
+            "year" : NumberInt(1991),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29913.70")
+        },
+        {
+            "year" : NumberInt(1989),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("27833.52")
+        },
+        {
+            "year" : NumberInt(1990),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25036.24")
+        },
+        {
+            "year" : NumberInt(1998),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("26276.99333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(1985),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26650.72")
+        }
+    ]
+}
+{
+    "_id" : "Mercury",
+    "stats" : [
+        {
+            "year" : NumberInt(2000),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20979.64")
+        },
+        {
+            "year" : NumberInt(1984),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29815.99")
+        },
+        {
+            "year" : NumberInt(1991),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24648.995")
+        },
+        {
+            "year" : NumberInt(1989),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27680.85")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("26231.145")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22417.63")
+        },
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25697.55")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24322.435")
+        },
+        {
+            "year" : NumberInt(2005),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29763.56")
+        },
+        {
+            "year" : NumberInt(1986),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("24485.86666666666666666666666666667")
+        },
+        {
+            "year" : NumberInt(1996),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("22865.73")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("28916.855")
+        },
+        {
+            "year" : NumberInt(1995),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("22386.79")
+        },
+        {
+            "year" : NumberInt(1990),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24100.86")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27280.70")
+        },
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20998.11")
+        },
+        {
+            "year" : NumberInt(1967),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21835.45")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21475.22")
+        },
+        {
+            "year" : NumberInt(1987),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20339.09")
+        },
+        {
+            "year" : NumberInt(1997),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25920.91")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24612.445")
+        },
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25477.48")
+        }
+    ]
+}
+{
+    "_id" : "Panoz",
+    "stats" : [
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20641.37")
+        }
+    ]
+}
+{
+    "_id" : "Alfa Romeo",
+    "stats" : [
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("26263.49")
+        }
+    ]
+}
+{
+    "_id" : "Lotus",
+    "stats" : [
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26463.58")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27212.40")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("23521.88")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22347.61")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26395.94")
+        }
+    ]
+}
+{
+    "_id" : "Jeep",
+    "stats" : [
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25409.44")
+        },
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("21373.56")
+        },
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("26883.49")
+        },
+        {
+            "year" : NumberInt(2000),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("23594.435")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("27171.80")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22124.41")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24041.74")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("29322.28")
+        }
+    ]
+}
+{
+    "_id" : "Isuzu",
+    "stats" : [
+        {
+            "year" : NumberInt(1997),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26631.68")
+        },
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25552.05")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24008.93")
+        },
+        {
+            "year" : NumberInt(1998),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22915.56")
+        },
+        {
+            "year" : NumberInt(1999),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29842.58")
+        },
+        {
+            "year" : NumberInt(2000),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24735.16")
+        },
+        {
+            "year" : NumberInt(1996),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21888.54")
+        },
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28720.97")
+        }
+    ]
+}
+{
+    "_id" : "Aptera",
+    "stats" : [
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27919.49")
+        }
+    ]
+}
+{
+    "_id" : "Subaru",
+    "stats" : [
+        {
+            "year" : NumberInt(1985),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20931.37")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22687.29")
+        },
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26030.11")
+        },
+        {
+            "year" : NumberInt(1999),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25308.90")
+        },
+        {
+            "year" : NumberInt(1990),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21128.90")
+        },
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25000.23")
+        },
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25335.66")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27084.57")
+        },
+        {
+            "year" : NumberInt(1998),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21498.60")
+        },
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24012.30")
+        },
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23806.16")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25007.23")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23410.56")
+        },
+        {
+            "year" : NumberInt(2005),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24920.29")
+        },
+        {
+            "year" : NumberInt(2000),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("24689.35333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21838.68")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("26101.365")
+        },
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24663.87")
+        }
+    ]
+}
+{
+    "_id" : "Chrysler",
+    "stats" : [
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21083.69")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("27183.245")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21276.96")
+        },
+        {
+            "year" : NumberInt(1926),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28945.50")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25977.90")
+        },
+        {
+            "year" : NumberInt(1996),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22691.96")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21588.15")
+        },
+        {
+            "year" : NumberInt(2005),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("26665.96666666666666666666666666667")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29982.40")
+        }
+    ]
+}
+{
+    "_id" : "Daewoo",
+    "stats" : [
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28611.61")
+        }
+    ]
+}
+{
+    "_id" : "Buick",
+    "stats" : [
+        {
+            "year" : NumberInt(1991),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("25041.22")
+        },
+        {
+            "year" : NumberInt(1989),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("28214.825")
+        },
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24974.88")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24898.20")
+        },
+        {
+            "year" : NumberInt(1999),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24898.165")
+        },
+        {
+            "year" : NumberInt(1987),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("23219.98666666666666666666666666667")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("26519.22")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25883.57")
+        },
+        {
+            "year" : NumberInt(1995),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("23419.935")
+        },
+        {
+            "year" : NumberInt(1986),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("26589.57666666666666666666666666667")
+        },
+        {
+            "year" : NumberInt(1990),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("22921.76")
+        },
+        {
+            "year" : NumberInt(1996),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25163.935")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23863.16")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23443.56")
+        },
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28976.64")
+        },
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23917.69")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27803.23")
+        }
+    ]
+}
+{
+    "_id" : "MINI",
+    "stats" : [
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25597.01")
+        },
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24139.40")
+        },
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("26755.11666666666666666666666666667")
+        }
+    ]
+}
+{
+    "_id" : "Chevrolet",
+    "stats" : [
+        {
+            "year" : NumberInt(2000),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24152.455")
+        },
+        {
+            "year" : NumberInt(1999),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("20444.385")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("24854.7175")
+        },
+        {
+            "year" : NumberInt(1985),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24846.72")
+        },
+        {
+            "year" : NumberInt(1971),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23243.05")
+        },
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("26260.25")
+        },
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("24486.35666666666666666666666666667")
+        },
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24157.28")
+        },
+        {
+            "year" : NumberInt(1996),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("26348.97")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("20435.76")
+        },
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("22781.07")
+        },
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("22358.65333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29488.44")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("25319.8975")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("24005.06")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21761.13")
+        },
+        {
+            "year" : NumberInt(2005),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29687.41")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("27640.5225")
+        },
+        {
+            "year" : NumberInt(1998),
+            "total_models" : 5.0,
+            "avg_price" : NumberDecimal("28254.35")
+        },
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 5.0,
+            "avg_price" : NumberDecimal("25414.554")
+        },
+        {
+            "year" : NumberInt(1958),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29393.58")
+        },
+        {
+            "year" : NumberInt(1957),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23835.26")
+        },
+        {
+            "year" : NumberInt(1980),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24414.74")
+        }
+    ]
+}
+{
+    "_id" : "Bentley",
+    "stats" : [
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24212.21")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27784.08")
+        },
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("27687.715")
+        },
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20313.30")
+        },
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29926.99")
+        }
+    ]
+}
+{
+    "_id" : "Plymouth",
+    "stats" : [
+        {
+            "year" : NumberInt(1981),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20900.27")
+        },
+        {
+            "year" : NumberInt(1976),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28018.54")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27906.76")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("21397.215")
+        },
+        {
+            "year" : NumberInt(1995),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("27120.065")
+        },
+        {
+            "year" : NumberInt(1998),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25124.445")
+        },
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24420.14")
+        },
+        {
+            "year" : NumberInt(1985),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25162.26")
+        }
+    ]
+}
+{
+    "_id" : "Citroën",
+    "stats" : [
+        {
+            "year" : NumberInt(1989),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22005.65")
+        },
+        {
+            "year" : NumberInt(1972),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22409.73")
+        }
+    ]
+}
+{
+    "_id" : "Suzuki",
+    "stats" : [
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27378.63")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21114.12")
+        },
+        {
+            "year" : NumberInt(1997),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22662.31")
+        },
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("23259.965")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23767.35")
+        },
+        {
+            "year" : NumberInt(2005),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28999.38")
+        },
+        {
+            "year" : NumberInt(1985),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24736.45")
+        },
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28837.36")
+        },
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25751.68")
+        },
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28108.99")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27532.69")
+        }
+    ]
+}
+{
+    "_id" : "Maserati",
+    "stats" : [
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28607.16")
+        },
+        {
+            "year" : NumberInt(1990),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23254.57")
+        },
+        {
+            "year" : NumberInt(1989),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21002.83")
+        },
+        {
+            "year" : NumberInt(1986),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22263.85")
+        }
+    ]
+}
+{
+    "_id" : "Acura",
+    "stats" : [
+        {
+            "year" : NumberInt(1988),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24665.86")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("23060.165")
+        },
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("25139.74666666666666666666666666667")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23615.25")
+        },
+        {
+            "year" : NumberInt(1996),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25802.20")
+        },
+        {
+            "year" : NumberInt(1995),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29319.81")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26094.41")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25543.71")
+        },
+        {
+            "year" : NumberInt(1997),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22507.42")
+        },
+        {
+            "year" : NumberInt(1998),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21863.81")
+        }
+    ]
+}
+{
+    "_id" : "Jaguar",
+    "stats" : [
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("26316.64")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("28818.70")
+        },
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("28748.635")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20288.11")
+        },
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21664.36")
+        }
+    ]
+}
+{
+    "_id" : "Saab",
+    "stats" : [
+        {
+            "year" : NumberInt(1986),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24581.43")
+        },
+        {
+            "year" : NumberInt(1999),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29670.84")
+        },
+        {
+            "year" : NumberInt(1984),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29911.61")
+        },
+        {
+            "year" : NumberInt(2005),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23898.17")
+        },
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21184.38")
+        },
+        {
+            "year" : NumberInt(1991),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25447.34")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24776.36")
+        }
+    ]
+}
+{
+    "_id" : "Geo",
+    "stats" : [
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25480.08")
+        }
+    ]
+}
+{
+    "_id" : "Saturn",
+    "stats" : [
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28099.11")
+        },
+        {
+            "year" : NumberInt(1997),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24526.30")
+        },
+        {
+            "year" : NumberInt(1998),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20517.13")
+        },
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24319.09")
+        },
+        {
+            "year" : NumberInt(2005),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("21790.06")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26032.82")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29645.86")
+        }
+    ]
+}
+{
+    "_id" : "Toyota",
+    "stats" : [
+        {
+            "year" : NumberInt(2000),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("24921.07")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25463.60")
+        },
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("26495.785")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("26297.095")
+        },
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20538.77")
+        },
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23702.67")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("26183.74666666666666666666666666667")
+        },
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 8.0,
+            "avg_price" : NumberDecimal("23600.67125")
+        },
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23330.71")
+        },
+        {
+            "year" : NumberInt(1996),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("23914.1875")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("23806.03")
+        },
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("25587.56")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 5.0,
+            "avg_price" : NumberDecimal("25305.39")
+        },
+        {
+            "year" : NumberInt(1987),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23360.09")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("21521.39")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("22992.20666666666666666666666666667")
+        },
+        {
+            "year" : NumberInt(1998),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("24225.2325")
+        },
+        {
+            "year" : NumberInt(1995),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25600.945")
+        },
+        {
+            "year" : NumberInt(1999),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("26075.56333333333333333333333333333")
+        }
+    ]
+}
+{
+    "_id" : "Lincoln",
+    "stats" : [
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("25844.77333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25434.73")
+        },
+        {
+            "year" : NumberInt(1988),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24824.65")
+        },
+        {
+            "year" : NumberInt(2000),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20711.51")
+        },
+        {
+            "year" : NumberInt(1998),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29849.33")
+        },
+        {
+            "year" : NumberInt(1991),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21377.54")
+        },
+        {
+            "year" : NumberInt(1996),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26388.19")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23782.57")
+        },
+        {
+            "year" : NumberInt(1990),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24206.11")
+        }
+    ]
+}
+{
+    "_id" : "Volvo",
+    "stats" : [
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21536.29")
+        },
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("26318.28")
+        },
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29757.22")
+        },
+        {
+            "year" : NumberInt(1999),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25638.70")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27500.12")
+        },
+        {
+            "year" : NumberInt(2000),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("26203.585")
+        },
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("27905.735")
+        },
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25861.53")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23759.19")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25417.74")
+        },
+        {
+            "year" : NumberInt(1998),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28921.79")
+        },
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27620.86")
+        },
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26459.63")
+        }
+    ]
+}
+{
+    "_id" : "Dodge",
+    "stats" : [
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 5.0,
+            "avg_price" : NumberDecimal("26203.514")
+        },
+        {
+            "year" : NumberInt(1998),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28018.41")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("27240.345")
+        },
+        {
+            "year" : NumberInt(1997),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("27556.865")
+        },
+        {
+            "year" : NumberInt(1995),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("23661.34666666666666666666666666667")
+        },
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("23271.38")
+        },
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 7.0,
+            "avg_price" : NumberDecimal("25140.00285714285714285714285714286")
+        },
+        {
+            "year" : NumberInt(1996),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("24142.7225")
+        },
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("22723.41")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("24574.2025")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25896.80")
+        },
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25740.20")
+        },
+        {
+            "year" : NumberInt(1999),
+            "total_models" : 6.0,
+            "avg_price" : NumberDecimal("23678.64333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(2000),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("27175.64333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27345.75")
+        }
+    ]
+}
+{
+    "_id" : "Kia",
+    "stats" : [
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22265.83")
+        },
+        {
+            "year" : NumberInt(2005),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("22996.835")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("22465.10")
+        },
+        {
+            "year" : NumberInt(1995),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21550.42")
+        },
+        {
+            "year" : NumberInt(2013),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20446.98")
+        },
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("22532.00")
+        },
+        {
+            "year" : NumberInt(1997),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25147.85")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29616.09")
+        },
+        {
+            "year" : NumberInt(2000),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28558.43")
+        },
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("22270.755")
+        },
+        {
+            "year" : NumberInt(1996),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21196.88")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24522.475")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21642.65")
+        }
+    ]
+}
+{
+    "_id" : "Shelby",
+    "stats" : [
+        {
+            "year" : NumberInt(1968),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20887.08")
+        }
+    ]
+}
+{
+    "_id" : "Scion",
+    "stats" : [
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20640.38")
+        },
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("26259.49")
+        }
+    ]
+}
+{
+    "_id" : "GMC",
+    "stats" : [
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("25283.15")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("28920.695")
+        },
+        {
+            "year" : NumberInt(1998),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("23410.88333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24569.92")
+        },
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23549.02")
+        },
+        {
+            "year" : NumberInt(1996),
+            "total_models" : 5.0,
+            "avg_price" : NumberDecimal("24394.366")
+        },
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25420.275")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("21439.035")
+        },
+        {
+            "year" : NumberInt(2005),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("25125.86")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("23644.2225")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25095.36")
+        },
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 5.0,
+            "avg_price" : NumberDecimal("23536.31")
+        },
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("22675.985")
+        },
+        {
+            "year" : NumberInt(2000),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("23096.95333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(1997),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20236.80")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("21704.89")
+        },
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25557.59")
+        }
+    ]
+}
+{
+    "_id" : "Oldsmobile",
+    "stats" : [
+        {
+            "year" : NumberInt(1996),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20260.17")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20065.66")
+        },
+        {
+            "year" : NumberInt(1997),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26793.63")
+        },
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("24813.67333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(1995),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20464.66")
+        },
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28726.60")
+        }
+    ]
+}
+{
+    "_id" : "Pontiac",
+    "stats" : [
+        {
+            "year" : NumberInt(1966),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26020.89")
+        },
+        {
+            "year" : NumberInt(1999),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20139.23")
+        },
+        {
+            "year" : NumberInt(1981),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28303.81")
+        },
+        {
+            "year" : NumberInt(1986),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28091.05")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("28452.025")
+        },
+        {
+            "year" : NumberInt(1984),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25202.88")
+        },
+        {
+            "year" : NumberInt(1988),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("23001.83333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(2000),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25407.97")
+        },
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24010.62")
+        },
+        {
+            "year" : NumberInt(1965),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22538.09")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22706.33")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("21907.715")
+        },
+        {
+            "year" : NumberInt(2005),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("20452.605")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28482.38")
+        },
+        {
+            "year" : NumberInt(1995),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("23572.625")
+        },
+        {
+            "year" : NumberInt(1997),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24184.77")
+        },
+        {
+            "year" : NumberInt(1998),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27369.11")
+        },
+        {
+            "year" : NumberInt(1985),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("25253.8075")
+        },
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("25358.26333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(1989),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20193.66")
+        },
+        {
+            "year" : NumberInt(1991),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24084.71")
+        },
+        {
+            "year" : NumberInt(1962),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23078.24")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25657.96")
+        },
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25035.485")
+        },
+        {
+            "year" : NumberInt(1987),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24751.66")
+        }
+    ]
+}
+{
+    "_id" : "Morgan",
+    "stats" : [
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21065.10")
+        }
+    ]
+}
+{
+    "_id" : "Ram",
+    "stats" : [
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24496.40")
+        },
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25398.89")
+        }
+    ]
+}
+{
+    "_id" : "Ferrari",
+    "stats" : [
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21071.60")
+        },
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28407.91")
+        }
+    ]
+}
+{
+    "_id" : "Rolls-Royce",
+    "stats" : [
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("21240.61")
+        }
+    ]
+}
+{
+    "_id" : "Rambler",
+    "stats" : [
+        {
+            "year" : NumberInt(1963),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27527.69")
+        }
+    ]
+}
+{
+    "_id" : "Cadillac",
+    "stats" : [
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("22018.015")
+        },
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23355.11")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("22797.715")
+        },
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 5.0,
+            "avg_price" : NumberDecimal("23324.382")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25458.715")
+        },
+        {
+            "year" : NumberInt(2005),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("28126.80")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22125.21")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21105.12")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23201.02")
+        },
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23761.45")
+        },
+        {
+            "year" : NumberInt(1954),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29745.21")
+        },
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24649.435")
+        },
+        {
+            "year" : NumberInt(1998),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("23257.295")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25042.435")
+        },
+        {
+            "year" : NumberInt(1999),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("26510.32")
+        }
+    ]
+}
+{
+    "_id" : "Land Rover",
+    "stats" : [
+        {
+            "year" : NumberInt(1990),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22522.66")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26281.66")
+        },
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("26333.87")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29139.69")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("21835.215")
+        },
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27101.85")
+        },
+        {
+            "year" : NumberInt(1989),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25799.07")
+        },
+        {
+            "year" : NumberInt(1997),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("21433.745")
+        },
+        {
+            "year" : NumberInt(1995),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21330.95")
+        },
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25642.545")
+        },
+        {
+            "year" : NumberInt(1998),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29173.14")
+        }
+    ]
+}
+{
+    "_id" : "Porsche",
+    "stats" : [
+        {
+            "year" : NumberInt(1983),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22529.83")
+        },
+        {
+            "year" : NumberInt(1970),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28741.51")
+        },
+        {
+            "year" : NumberInt(2013),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24580.79")
+        },
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28074.30")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20844.27")
+        },
+        {
+            "year" : NumberInt(1985),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25971.295")
+        },
+        {
+            "year" : NumberInt(1995),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26908.93")
+        },
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25625.79")
+        },
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("27386.8325")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25375.72")
+        }
+    ]
+}
+{
+    "_id" : "BMW",
+    "stats" : [
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25021.275")
+        },
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("21436.42")
+        },
+        {
+            "year" : NumberInt(1996),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22007.84")
+        },
+        {
+            "year" : NumberInt(2005),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("26825.58")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24035.775")
+        },
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21557.26")
+        },
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("20738.72")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("21601.925")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29183.36")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("22717.90333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("23070.48")
+        },
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25477.00")
+        },
+        {
+            "year" : NumberInt(2000),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24208.76")
+        },
+        {
+            "year" : NumberInt(2013),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("22866.39")
+        },
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("24409.5975")
+        },
+        {
+            "year" : NumberInt(1997),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22374.82")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29499.64")
+        },
+        {
+            "year" : NumberInt(1995),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22054.36")
+        }
+    ]
+}
+{
+    "_id" : "Bugatti",
+    "stats" : [
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29993.77")
+        }
+    ]
+}
+{
+    "_id" : "Nissan",
+    "stats" : [
+        {
+            "year" : NumberInt(1998),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23826.24")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27931.03")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24211.065")
+        },
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27704.03")
+        },
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25282.685")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22294.06")
+        },
+        {
+            "year" : NumberInt(1997),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("24044.50333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(2000),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24910.59")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24991.00")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26779.39")
+        },
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("27277.09333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("26022.49")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26679.39")
+        },
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("25419.3125")
+        },
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25695.44")
+        },
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("26441.305")
+        },
+        {
+            "year" : NumberInt(1990),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20863.67")
+        }
+    ]
+}
+{
+    "_id" : "Mitsubishi",
+    "stats" : [
+        {
+            "year" : NumberInt(1989),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29100.24")
+        },
+        {
+            "year" : NumberInt(1988),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("23572.02666666666666666666666666667")
+        },
+        {
+            "year" : NumberInt(1985),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25733.36")
+        },
+        {
+            "year" : NumberInt(2000),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("23495.485")
+        },
+        {
+            "year" : NumberInt(1999),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22838.83")
+        },
+        {
+            "year" : NumberInt(1990),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24732.00")
+        },
+        {
+            "year" : NumberInt(1984),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25080.275")
+        },
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("25011.21333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("25690.36")
+        },
+        {
+            "year" : NumberInt(1996),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25214.07")
+        },
+        {
+            "year" : NumberInt(1995),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("24241.20333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(1986),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("23861.59")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29295.15")
+        },
+        {
+            "year" : NumberInt(2005),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20578.56")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25638.765")
+        },
+        {
+            "year" : NumberInt(1997),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24682.83")
+        },
+        {
+            "year" : NumberInt(1991),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("25413.4525")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("26847.88666666666666666666666666667")
+        },
+        {
+            "year" : NumberInt(1998),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("22710.625")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24602.22")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("27057.705")
+        }
+    ]
+}
+{
+    "_id" : "Lamborghini",
+    "stats" : [
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23594.76")
+        },
+        {
+            "year" : NumberInt(1988),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25002.05")
+        },
+        {
+            "year" : NumberInt(1997),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25733.11")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23565.68")
+        },
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24535.37")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("27007.92")
+        },
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22729.05")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22281.76")
+        }
+    ]
+}
+{
+    "_id" : "Lexus",
+    "stats" : [
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20077.02")
+        },
+        {
+            "year" : NumberInt(2000),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("26182.47")
+        },
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24219.86")
+        },
+        {
+            "year" : NumberInt(2005),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23948.40")
+        },
+        {
+            "year" : NumberInt(2013),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29875.39")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("26758.565")
+        },
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24410.375")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20624.73")
+        },
+        {
+            "year" : NumberInt(1991),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22879.73")
+        },
+        {
+            "year" : NumberInt(1989),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23662.73")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24052.15")
+        },
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("23456.86")
+        }
+    ]
+}
+{
+    "_id" : "Ford",
+    "stats" : [
+        {
+            "year" : NumberInt(1985),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("26630.3875")
+        },
+        {
+            "year" : NumberInt(2000),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("28350.8725")
+        },
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21814.99")
+        },
+        {
+            "year" : NumberInt(1989),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("23282.61333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24919.77")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("26799.675")
+        },
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22815.59")
+        },
+        {
+            "year" : NumberInt(1987),
+            "total_models" : 5.0,
+            "avg_price" : NumberDecimal("25988.994")
+        },
+        {
+            "year" : NumberInt(1999),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("25652.06333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(1966),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26269.41")
+        },
+        {
+            "year" : NumberInt(1980),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22420.65")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("25496.19")
+        },
+        {
+            "year" : NumberInt(1984),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26346.21")
+        },
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("24144.90666666666666666666666666667")
+        },
+        {
+            "year" : NumberInt(1972),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25585.39")
+        },
+        {
+            "year" : NumberInt(1991),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29493.53")
+        },
+        {
+            "year" : NumberInt(1997),
+            "total_models" : 6.0,
+            "avg_price" : NumberDecimal("24171.86333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(1998),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25206.99")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("23857.885")
+        },
+        {
+            "year" : NumberInt(2013),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27803.22")
+        },
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("26432.99")
+        },
+        {
+            "year" : NumberInt(1986),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("23786.77")
+        },
+        {
+            "year" : NumberInt(1996),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("23621.17333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 6.0,
+            "avg_price" : NumberDecimal("27748.495")
+        },
+        {
+            "year" : NumberInt(2005),
+            "total_models" : 6.0,
+            "avg_price" : NumberDecimal("25335.23333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("27152.79333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 6.0,
+            "avg_price" : NumberDecimal("25358.62166666666666666666666666667")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("23577.225")
+        },
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("26189.47")
+        },
+        {
+            "year" : NumberInt(1995),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("24694.0325")
+        },
+        {
+            "year" : NumberInt(1990),
+            "total_models" : 5.0,
+            "avg_price" : NumberDecimal("24843.194")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("26574.9975")
+        }
+    ]
+}
+{
+    "_id" : "Mercedes-Benz",
+    "stats" : [
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24101.385")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("23260.94")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("28472.745")
+        },
+        {
+            "year" : NumberInt(1986),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("23852.72")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("20725.84")
+        },
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 8.0,
+            "avg_price" : NumberDecimal("24640.8625")
+        },
+        {
+            "year" : NumberInt(2000),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("21902.45")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25625.685")
+        },
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("26893.125")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28911.06")
+        },
+        {
+            "year" : NumberInt(1998),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25441.86")
+        },
+        {
+            "year" : NumberInt(2005),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29437.95")
+        },
+        {
+            "year" : NumberInt(1989),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29455.24")
+        },
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24389.35")
+        },
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("23858.94666666666666666666666666667")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20463.34")
+        },
+        {
+            "year" : NumberInt(1999),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20041.44")
+        },
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 5.0,
+            "avg_price" : NumberDecimal("25347.484")
+        }
+    ]
+}
+{
+    "_id" : "Infiniti",
+    "stats" : [
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23177.53")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24731.50")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("24541.79")
+        },
+        {
+            "year" : NumberInt(2005),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23905.61")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23757.41")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22607.70")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24508.58")
+        },
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("23641.635")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("24702.595")
+        },
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("23901.485")
+        },
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23350.97")
+        },
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("27521.14")
+        }
+    ]
+}
+{
+    "_id" : "Spyker",
+    "stats" : [
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22937.77")
+        }
+    ]
+}
+{
+    "_id" : "Mazda",
+    "stats" : [
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("23191.305")
+        },
+        {
+            "year" : NumberInt(1996),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("28400.35")
+        },
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27332.50")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("26672.87333333333333333333333333333")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("23444.33")
+        },
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21323.93")
+        },
+        {
+            "year" : NumberInt(1995),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("23714.49666666666666666666666666667")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26292.90")
+        },
+        {
+            "year" : NumberInt(1997),
+            "total_models" : 4.0,
+            "avg_price" : NumberDecimal("24366.22")
+        },
+        {
+            "year" : NumberInt(1986),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24776.10")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20235.85")
+        },
+        {
+            "year" : NumberInt(1987),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22579.13")
+        },
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("21661.18")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24017.58")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("24317.14666666666666666666666666667")
+        },
+        {
+            "year" : NumberInt(1991),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("26438.73")
+        }
+    ]
+}
+{
+    "_id" : "Honda",
+    "stats" : [
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26394.02")
+        },
+        {
+            "year" : NumberInt(2001),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("24362.82")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25396.31")
+        },
+        {
+            "year" : NumberInt(1999),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28700.69")
+        },
+        {
+            "year" : NumberInt(1989),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20348.71")
+        },
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("28498.665")
+        },
+        {
+            "year" : NumberInt(2005),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("21416.80")
+        },
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25738.78")
+        },
+        {
+            "year" : NumberInt(2006),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29238.54")
+        },
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("25129.01")
+        },
+        {
+            "year" : NumberInt(1990),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("23767.005")
+        },
+        {
+            "year" : NumberInt(1996),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25587.60")
+        },
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("25199.465")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("21714.985")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21800.18")
+        },
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27827.04")
+        }
+    ]
+}
+{
+    "_id" : "Hyundai",
+    "stats" : [
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20437.16")
+        },
+        {
+            "year" : NumberInt(1993),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20884.95")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24984.43")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24876.12")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25673.67")
+        },
+        {
+            "year" : NumberInt(2000),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20785.41")
+        },
+        {
+            "year" : NumberInt(2003),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("24130.09")
+        },
+        {
+            "year" : NumberInt(2007),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27140.36")
+        },
+        {
+            "year" : NumberInt(2013),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22940.26")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("23095.57")
+        }
+    ]
+}
+{
+    "_id" : "Tesla",
+    "stats" : [
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21272.82")
+        }
+    ]
+}
+{
+    "_id" : "Maybach",
+    "stats" : [
+        {
+            "year" : NumberInt(2005),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28711.50")
+        },
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("21929.66")
+        }
+    ]
+}
+{
+    "_id" : "Aston Martin",
+    "stats" : [
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("26902.57")
+        },
+        {
+            "year" : NumberInt(2012),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("25962.13")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22266.78")
+        },
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27220.13")
+        }
+    ]
+}
+{
+    "_id" : "Audi",
+    "stats" : [
+        {
+            "year" : NumberInt(1990),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21856.21")
+        },
+        {
+            "year" : NumberInt(1988),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22625.31")
+        },
+        {
+            "year" : NumberInt(1995),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("22788.91")
+        },
+        {
+            "year" : NumberInt(2004),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("29899.37")
+        },
+        {
+            "year" : NumberInt(2008),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("22490.36")
+        },
+        {
+            "year" : NumberInt(1986),
+            "total_models" : 3.0,
+            "avg_price" : NumberDecimal("22978.93666666666666666666666666667")
+        },
+        {
+            "year" : NumberInt(2002),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26917.39")
+        },
+        {
+            "year" : NumberInt(1994),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21814.56")
+        },
+        {
+            "year" : NumberInt(2011),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21446.72")
+        },
+        {
+            "year" : NumberInt(1996),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26841.61")
+        },
+        {
+            "year" : NumberInt(2005),
+            "total_models" : 2.0,
+            "avg_price" : NumberDecimal("28915.65")
+        },
+        {
+            "year" : NumberInt(1992),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20963.44")
+        },
+        {
+            "year" : NumberInt(1998),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("28983.91")
+        },
+        {
+            "year" : NumberInt(1997),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("26075.90")
+        },
+        {
+            "year" : NumberInt(1999),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("27621.97")
+        }
+    ]
+}
+{
+    "_id" : "Hummer",
+    "stats" : [
+        {
+            "year" : NumberInt(2010),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("20782.85")
+        },
+        {
+            "year" : NumberInt(2009),
+            "total_models" : 1.0,
+            "avg_price" : NumberDecimal("21489.93")
+        }
+    ]
+}
